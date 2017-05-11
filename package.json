@@ -1,0 +1,22 @@
+{
+  "name": "un-require",
+  "version": "1.0.0",
+  "description": "Un-requires a node.js module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macdja38/un-require.git"
+  },
+  "keywords": [
+    "un-require"
+  ],
+  "author": "macdja38",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/macdja38/un-require/issues"
+  },
+  "homepage": "https://github.com/macdja38/un-require#readme"
+}
