@@ -1,6 +1,6 @@
 {
   "name": "un-require",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Un-requires a node.js module",
   "main": "index.js",
   "scripts": {

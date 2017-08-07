@@ -1,2 +1,8 @@
 # un-require
-Unrequires a node.js module
+Un-requires a node.js module
+
+example
+```js
+const unRequire = require("un-require");
+unRequire("un-require");
+```
